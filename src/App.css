@@ -4,7 +4,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
 }
+    
 
 
 .headshot {
@@ -18,10 +20,65 @@
 }
 
 .self-portrait {
-    display: block;
+    /* display: block; */
     object-fit: cover;
     width: 100%;
-    height: auto;
+    height: 50%;
     padding: 0;
     margin: 0;
+}
+
+.title {
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+
+.sub-title {
+    display: flex;
+    justify-content: center;
+    color: #F3BF99;
+    margin: 10px;
+}
+
+
+.button-container {
+    display: flex;
+   justify-content: center;
+    margin-top: 1em;
+    margin-left: 1 0 1 0;
+   
+}
+
+.button-email {
+display: block;
+ background-color: #D1D5DB;
+ height: 100px;
+ width: 200px;
+ font-size: 30px;
+ border-radius: 10px;
+ margin-right: 5px;
+ font-weight: 500;
+ 
+
+}
+
+.button-linkedin {
+display: block;
+background-color: #5093E2;
+height: 100px;
+ width: 200px;
+ font-size: 30px;
+ border-radius: 10px;
+ margin-left: 5px;
+ font-weight: 500;
+ 
+
+
+
 }

@@ -1,5 +1,10 @@
 import React from "react";
 
 export default function Title() {
-  return <div>Title</div>;
+  return (
+    <div className="title">
+      <h1>Ian Ferguson</h1>
+      <p className="sub-title">Developer</p>
+    </div>
+  );
 }
