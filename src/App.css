@@ -50,7 +50,7 @@
 .button-container {
     display: flex;
    justify-content: center;
-    margin-top: 1em;
+    margin-top: 1rem;
     margin-left: 1 0 1 0;
    
 }
@@ -58,8 +58,8 @@
 .button-email {
 display: block;
  background-color: #D1D5DB;
- height: 100px;
- width: 200px;
+ height: 90px;
+ width: 300px;
  font-size: 30px;
  border-radius: 10px;
  margin-right: 5px;
@@ -71,14 +71,60 @@ display: block;
 .button-linkedin {
 display: block;
 background-color: #5093E2;
-height: 100px;
- width: 200px;
+height: 90px;
+ width: 300px;
  font-size: 30px;
  border-radius: 10px;
  margin-left: 5px;
  font-weight: 500;
+ }
+
+ .about-header {
+    color: #F5F5F5;
+    font-weight: 700, Bold;
+    margin-left: 1rem;
+    margin-top: 1rem;
+ }
+
+ .about-p {
+     color: #DCDCDC;
+     font-weight: 400;
+     margin-left: 1rem;
+     padding-top: 5px;
+    
+
+ }
+
+ .interests-header {
+    color: #F5F5F5;
+    font-weight: 700, Bold;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+
+ }
+
+ .interests-p {
+    color: #DCDCDC;
+    font-weight: 400;
+    padding-top: 5px;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+
+ }
  
+footer {
+    background-color:
+    
+#161619;
+    padding-top: 3px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
 
-
-
+.git-icon {
+  margin-bottom: 2px;
+  
 }
