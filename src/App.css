@@ -128,3 +128,15 @@ footer {
   margin-bottom: 2px;
   
 }
+
+.email-icon {
+  height: 20px;
+  width: 25px;
+}
+
+.linkedin-icon {
+  margin-right: 5px;
+  margin-top: -5px ;
+  vertical-align: middle;
+  
+}
