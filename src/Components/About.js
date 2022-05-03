@@ -10,10 +10,11 @@ export default function About() {
         television and movies but found myself wanting to delve even further
         into the technical side of things. I began programming in October of
         2020 to stay busy during the pandemic but found that I really enjoyed it
-        and wanted to do it as a career. Though my first language was Java I am
-        spending a majority of my current time working with React. I am
-        currently looking for my first programming job and do not have a
-        preference towards front-end or back end, I just enjoy coding.
+        and wanted to do it as a career and completed a bootcamp through Georgia
+        Tech in June 2021. Though my first language was Java I am spending a
+        majority of my current time working with React. I am currently looking
+        for my first programming job and do not have a preference towards
+        front-end or back end, I just enjoy coding.
       </p>
     </div>
   );
